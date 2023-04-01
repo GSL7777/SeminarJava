@@ -11,8 +11,8 @@ public class Main {
 //        int[] ray = new int[]{1,1,0,1,1,1,1,1};
 //        int a = Task3.run(ray);
 //        System.out.println(a);
-//        Hw1.run();
+        Hw1.run();
         Hw2.main();
-//        Hw3.calculation();
+        Hw3.calculation();
 }
 }
